@@ -1,4 +1,3 @@
-honcho==0.7.1
-numpy==1.12.0
-shadowsocks==2.6.11
-websockify==0.8.0
+honcho
+git+https://github.com/shadowsocks/shadowsocks.git@master
+websockify

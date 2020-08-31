@@ -4,7 +4,7 @@
   "env": {
     "METHOD": {
       "description": "encryption method",
-      "value": "aes-256-cfb"
+      "value": "aes-256-gcm"
     },
     "KEY": {
       "description": "app-password",
